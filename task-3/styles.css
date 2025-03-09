@@ -127,23 +127,27 @@ header {
 
 @media (max-width: 480px) {
     .img-content {
-        width: 95%;
-        padding: 12px;
+        width: 100%;
+        padding: 8px; 
     }
 
     .img h2 {
-        font-size: 1.5rem;
+        font-size: 1.0rem; 
+        margin-bottom: 5px; 
     }
 
     .img p {
-        font-size: 1.1rem;
+        font-size: 0.8rem;
+        line-height: 1.2; 
+        margin-bottom: 5px; 
     }
 
     .btn {
-        font-size: 0.9rem;
-        padding: 6px 15px;
+        font-size: 0.8rem; 
+        padding: 4px 12px; 
     }
 }
+
 
 
 header h1 {
