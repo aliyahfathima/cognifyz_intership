@@ -1,0 +1,17 @@
+body {
+    background-color:white;
+    background-image: url(img7/11.jpg);
+    
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.btn-success {
+    width: 100%;
+}
+
+table {
+    margin-top: 10px;
+}
